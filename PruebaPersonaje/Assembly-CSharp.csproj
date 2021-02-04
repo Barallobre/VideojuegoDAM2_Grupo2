@@ -39,6 +39,7 @@
      <Compile Include="Assets\Mouse_Lock.cs" />
      <Compile Include="Assets\MovimientoPersonaje.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
+     <None Include="Assets\Sci-Fi Styled Modular Pack\Readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
