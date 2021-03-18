@@ -59,6 +59,7 @@
      <Compile Include="Assets\MovimientoPersonaje.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\Scenes\SceneSwitch.cs" />
+     <Compile Include="Assets\Scenes\TextoFinal.cs" />
      <Compile Include="Assets\Scenes\TimerCountdown.cs" />
      <Compile Include="Assets\finJuego.cs" />
      <Compile Include="Assets\sc.cs" />
