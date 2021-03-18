@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Laberinto1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/Scenes/Laberinto2.unity
-    guid: 55bd397cd113205479816b10b80c1de6
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/SegundoLaberinto.unity
     guid: 3041d2256a3944140be15e959d9bc062
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: 9bfe086af98e1d34b9ecdf49b10860b4
   m_configObjects: {}
