@@ -72,8 +72,8 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 59
 --- !u!114 &4
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 385
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -123,8 +123,8 @@ MonoBehaviour:
     y: 0
     width: 281
     height: 587
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -245,7 +245,7 @@ MonoBehaviour:
     y: 0
     width: 1535
     height: 947
-  m_MinSize: {x: 402, y: 492}
+  m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 60
@@ -270,8 +270,8 @@ MonoBehaviour:
     y: 0
     width: 1535
     height: 587
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
   controlID: 61
 --- !u!114 &12
@@ -462,20 +462,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Sci-Fi Styled Modular Pack/Textures
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Sci-Fi Styled Modular Pack/Textures
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\VideojuegoDAM2_Grupo2\PruebaPersonaje
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3a470000
-    m_LastClickedID: 18234
-    m_ExpandedIDs: 000000002c4700002e47000000ca9a3b
+    m_SelectedIDs: 50470000
+    m_LastClickedID: 18256
+    m_ExpandedIDs: 00000000364700003847000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -503,7 +503,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002c4700002e470000
+    m_ExpandedIDs: 000000003647000038470000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -547,7 +547,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 6}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -628,7 +628,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 12e7ffff72e8ffff8cecffffa8ecffff44edffff48edffff56efffff9aefffff26f0ffff40f7ffff52f7ffffeaf7ffff1af8ffff9cf8ffffa6f9ffff6afbffff5e510100f2c30100eed7010048ea0100384a0200e6e30200
+      m_ExpandedIDs: d4affffff0afffff8cb0ffff90b0ffffecc2ffffa4c4ffff6ec8ffff28f1ffff46f1ffff6afbffffbe3d0000daf0000084f6000040820100988601007a8701002c8c0100f08e0100d6900100729301003e60020008610200906402003499020072e1020038e20200bee30200dce30200aee502003cea020058eb0200b6eb0200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -688,9 +688,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 287.09796, y: 345.25903, z: -140.2406}
+    m_Target: {x: 652.751, y: -10.449531, z: 437.0527}
     speed: 2
-    m_Value: {x: 287.09796, y: 345.25903, z: -140.2406}
+    m_Value: {x: 652.751, y: -10.449531, z: 437.0527}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -736,13 +736,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.2367606, y: 0.33534837, z: -0.0871101, w: 0.9078337}
+    m_Target: {x: -0.028197072, y: -0.7070669, z: 0.026954833, w: -0.70644206}
     speed: 2
-    m_Value: {x: 0.23698956, y: 0.33257943, z: -0.08638802, w: 0.9087156}
+    m_Value: {x: -0.027130807, y: -0.7069208, z: 0.025886847, w: -0.706298}
   m_Size:
-    m_Target: 17.483973
+    m_Target: 123.15724
     speed: 2
-    m_Value: 17.483973
+    m_Value: 123.15724
   m_Ortho:
     m_Target: 0
     speed: 2
