@@ -61,6 +61,7 @@
      <Compile Include="Assets\Scenes\SceneSwitch.cs" />
      <Compile Include="Assets\Scenes\TextoFinal.cs" />
      <Compile Include="Assets\Scenes\TimerCountdown.cs" />
+     <Compile Include="Assets\Scenes\animacionScript.cs" />
      <Compile Include="Assets\Scenes\pLAY.cs" />
      <Compile Include="Assets\Scenes\paraCama.cs" />
      <Compile Include="Assets\Scenes\toMenu.cs" />
@@ -98,6 +99,7 @@
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+     <Compile Include="Assets\animationGIFScripte.cs" />
      <Compile Include="Assets\finJuego.cs" />
      <Compile Include="Assets\sc.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

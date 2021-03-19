@@ -13900,6 +13900,7 @@ GameObject:
   m_Component:
   - component: {fileID: 633660370}
   - component: {fileID: 633660369}
+  - component: {fileID: 633660371}
   m_Layer: 0
   m_Name: INSTRUCCIONES
   m_TagString: Untagged
@@ -13971,6 +13972,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &633660371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633660368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee9b537ad6131d34b963f90dc72bdba2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animatedImages:
+  - {fileID: 21300000, guid: 3fd869e22263ac04d8e6b6d122fb8698, type: 3}
+  - {fileID: 21300000, guid: 754be4ebc0dd6ba4d95d49726a140d97, type: 3}
+  - {fileID: 21300000, guid: aa0d78231e09834459fa7b30ea327f9c, type: 3}
+  - {fileID: 21300000, guid: 6a9fd9ecbc98ae3448c61dac3a3f1a47, type: 3}
+  - {fileID: 21300000, guid: b0c4b00f22b4c2b49b7d2990fb5b4c10, type: 3}
+  animateImageObj: {fileID: 0}
 --- !u!1 &646398473
 GameObject:
   m_ObjectHideFlags: 0
@@ -23137,7 +23157,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: a141439df18f74c4ab11a2e157ea68b7, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.24
+  m_Volume: 0.049
   m_Pitch: 1
   Loop: 1
   Mute: 0
