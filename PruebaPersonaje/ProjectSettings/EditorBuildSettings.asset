@@ -5,16 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Laberinto1.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4f2f4176663d0b942929ab392f57e26c
+  - enabled: 1
+    path: Assets/Scenes/Laberinto1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
     path: Assets/Scenes/SegundoLaberinto.unity
     guid: 3041d2256a3944140be15e959d9bc062
-  - enabled: 0
-    path: Assets/Scenes/New Scene.unity
-    guid: 9bfe086af98e1d34b9ecdf49b10860b4
+  - enabled: 1
+    path: Assets/Scenes/Cama.unity
+    guid: 3a52db20f1c600e49b9aae2d44dba7a9
   m_configObjects: {}
